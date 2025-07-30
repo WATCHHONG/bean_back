@@ -8,6 +8,8 @@ public class BeanBackApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BeanBackApplication.class, args);
+
+        System.out.println("Hello world");
     }
 
 }
